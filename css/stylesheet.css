@@ -21,7 +21,9 @@ body {
 .description {
     margin: 50px;
     max-width: 600px;
+    margin-left: 28%;
     color: white;
+    text-align: center;
 }
 
 h1 {
