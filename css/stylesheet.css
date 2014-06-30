@@ -48,8 +48,12 @@ p.descrip {
 }
 
 a.rules-link {
-	color: white;
+	color: white !important;
 	text-transform: uppercase;
+}
+
+a.rules-link:visited {
+	color: white !important;
 }
 
 a.rules-link:hover {
