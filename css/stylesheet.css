@@ -47,6 +47,15 @@ p.descrip {
     -webkit-font-smoothing: antialiased;
 }
 
+a.rules-link {
+	color: white;
+	text-transform: uppercase;
+}
+
+a.rules-link:hover {
+	text-decoration: underline;
+}
+
 .video {
     margin: 0px;
     background-color: #D2000D;
